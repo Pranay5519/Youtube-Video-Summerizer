@@ -4,6 +4,7 @@ The YouTube Video Summarizer is an innovative tool designed to transform lengthy
 
 
 **🎥 Transcript Extraction:**
+
 The system intelligently pulls transcript data from YouTube videos, processing and combining the text for a comprehensive overview. This step ensures that all relevant information is captured for the summarization process.
 
 **🧠 Gemini Pro Summarization:**
